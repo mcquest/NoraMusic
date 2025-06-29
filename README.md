@@ -9,7 +9,7 @@ Make sure you have the following set up:
 - npm install expo-av
 - npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
 
-# To Run App Server; navigate to the directory (cd) and run one of the following npm commands:
+# To Run App Server; navigate to the directory (cd):
 - cd NoraMusic
 # Mobile (Target) {Download the Mobile App Expo Go; Silent mode must be off}
 - npx expo start --clear
