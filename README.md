@@ -11,5 +11,5 @@ Make sure you have the following set up:
 
 # To Run App Server; navigate to the directory (cd) and run one of the following npm commands:
 - cd NoraMusic
-# Mobile (Target) {Silent mode must be off}
+# Mobile (Target) {Download the Mobile App Expo Go; Silent mode must be off}
 - npx expo start --clear
