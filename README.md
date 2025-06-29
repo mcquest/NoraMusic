@@ -3,7 +3,7 @@ Make sure you have the following set up:
 + Node.js (LTS version) & npm https://nodejs.org/en/download
 + Expo CLI
   npm install -g expo-cli
-Then run
+#Then run
 - npm install axios @react-navigation/native react-native-elements
 - npm install @react-navigation/native-stack
 - npm install expo-av
