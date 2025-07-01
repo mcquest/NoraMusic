@@ -1,12 +1,18 @@
+// services/api.ts
 import axios from 'axios';
 import { Track } from '../types';
 
-export const fetchMusic = async (query: string): Promise<Track[]> => {
+interface FetchResult {
+  data?: Track[];
+  error?: string;
+}
+
+export const fetchMusic = async (query: string): Promise<FetchResult> => {
   try {
     const res = await axios.get(`https://itunes.apple.com/search?media=music&term=${encodeURIComponent(query)}`);
-    return res.data.results;
-  } catch (error) {
+    return { data: res.data.results };
+  } catch (error: any) {
     console.error('API fetch failed:', error);
-    return [];
+    return { error: error.message || 'Unknown error occurred' };
   }
 };
