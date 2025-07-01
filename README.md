@@ -13,3 +13,14 @@ Make sure you have the following set up:
 - cd NoraMusic
 # Mobile (Target) {Download the Mobile App 'Expo Go'; Silent mode must be off}
 - npx expo start --clear
+
+# To add with more time 
+- Infinite Scroll
+- More metadata for songs
+- Option to load lyrics 
+- Favorite Artists
+- Dark Mode
+- Spotify (black & green) | Apple Music (white & red
+UI toggle 
+- Show all Artist metadata across streaming platforms
+- Built in moderated social media & mini games to artist profiles
