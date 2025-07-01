@@ -26,3 +26,4 @@ UI toggle
 - Built-in moderated social media & mini games to artist profiles
 - The entirety of the Nora Music App functionality :)
 - Optimize load times and add load screens
+- A more robust testing suite
