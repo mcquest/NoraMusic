@@ -20,7 +20,7 @@ Make sure you have the following set up:
 - Option to load lyrics 
 - Favorite Artists
 - Dark Mode
-- Spotify (black & green) | Apple Music (white & red
+- Spotify (black & green) | Apple Music (white & red)
 UI toggle 
 - Show all Artist metadata across streaming platforms
 - Built-in moderated social media & mini games to artist profiles
