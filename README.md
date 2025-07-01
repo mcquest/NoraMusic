@@ -23,4 +23,5 @@ Make sure you have the following set up:
 - Spotify (black & green) | Apple Music (white & red
 UI toggle 
 - Show all Artist metadata across streaming platforms
-- Built in moderated social media & mini games to artist profiles
+- Built-in moderated social media & mini games to artist profiles
+- The entirety of the Nora Music App functionality :) 
