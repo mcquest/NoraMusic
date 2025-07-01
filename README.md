@@ -14,7 +14,7 @@ Make sure you have the following set up:
 # Mobile (Target) {Download the Mobile App 'Expo Go'; Silent mode must be off}
 - npx expo start --clear
 
-# To add with more time 
+# To add 
 - Infinite Scroll
 - More metadata for songs
 - Option to load lyrics 
