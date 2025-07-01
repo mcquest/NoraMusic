@@ -19,6 +19,10 @@ Make sure you have the following set up:
 # Mobile (Target) {Download the Mobile App 'Expo Go'; Silent mode must be off}
 - npx expo start --clear
 
+
+# Testing
+- npm test
+
 # To add 
 - Infinite Scroll
 - More metadata for songs
