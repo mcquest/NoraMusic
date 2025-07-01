@@ -1,13 +1,18 @@
 # Prerequisites/Dependencies
 Make sure you have the following set up:
 + Node.js (LTS version) & npm https://nodejs.org/en/download
-+ Expo CLI
++ Expo CLI (faster Dev env)
 + npm install -g expo-cli
-# Dependencies Cont.
+
+# Then run
 - npm install axios @react-navigation/native react-native-elements
 - npm install @react-navigation/native-stack
 - npm install expo-av
 - npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
+- npm install @react-native-async-storage/async-storage
+- npm install --save-dev @testing-library/react-native @testing-library/jest-native @types/jest babel-jest react-test-renderer --legacy-peer-deps
+- npm install --save-dev jest @testing-library/react-native @testing-library/jest-native @types/jest babel-jest react-test-renderer --legacy-peer-deps
+- npm install --save-dev react-test-renderer@19.0.0
 
 # To Run App Server; navigate to the directory (cd):
 - cd NoraMusic
