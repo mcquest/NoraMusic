@@ -24,6 +24,7 @@ Make sure you have the following set up:
 - npm test
 
 # To add 
+- Render a more clear image on song details page 
 - Infinite Scroll
 - More metadata for songs
 - Option to load lyrics 
